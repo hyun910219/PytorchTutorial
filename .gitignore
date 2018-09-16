@@ -1,0 +1,14 @@
+# ipynb
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
+
+# DS_store
+*/.DS_Store
+.DS_Store
+
+# data
+data/
+
+# 
+PT4/*
+PT5/*
